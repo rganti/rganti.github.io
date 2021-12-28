@@ -16,8 +16,8 @@ On the side, I have been doing consulting projects for a few A.I. startups in fi
 
 Modeling Skills
 ======
-Recurrent Neural Networks (LSTMs), Deep Reinforcement Learning, Machine Translation, Molecular Dynamics (LAMMPs), Monte Carlo, Stochastic Simulations, Systems Biology Modeling
+Recurrent Neural Networks (LSTMs), Deep Reinforcement Learning, Machine Translation, Molecular Dynamics, Monte Carlo, Stochastic Simulations, Systems Biology Modeling
 
 Software Skills
 ======
-Python, Numpy, Pandas, PyTorch-GPU, Amazon Sagemaker, Amazon EC2, Google Cloud Platform, OpenAI gym, Stable Baselines, Bash, SLURM, Docker, Singularity, Git
+Python, Numpy, Pandas, PyTorch-GPU, Amazon Sagemaker, Amazon EC2, Google Cloud Platform, LAMMPs, OpenAI gym, Stable Baselines, Bash, SLURM, Docker, Singularity, Git

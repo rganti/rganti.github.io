@@ -11,23 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Physics, University of Pennsylvania, 2009 - 2013
+* M.S. in Physics, University of Pennsylvania, 2012 - 2013
+* Ph.D. in Theoretical and Computational Chemistry, University of Cambridge, 2014-2018
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Post-Doctoral Associate, 2018 - 2021
+  * Massachusetts Institute of Technology
+  * Supervisor: Arup K. Chakraborty
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* HealthTap, 2013
+  * Duties included: Developing a library of Selenium scripts to automate testing of the website
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
