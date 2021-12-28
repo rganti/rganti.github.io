@@ -17,6 +17,11 @@ Education
 
 Work Experience
 ======
+* Deep Alpha L.C., deepalpha-lc.com, 2021 -
+  * Developing an algorithmic trading system using deep learning methods
+  * Built on top of Alpaca and Amazon Web Services (AWS)
+  * Using attention-based sequence to sequence models for time series forecasting
+
 * Post-Doctoral Associate, 2018 - 2021
   * Massachusetts Institute of Technology
   * Supervisor: Arup K. Chakraborty
