@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raman Ganti, PhD"
+title                    : "Raman S. Ganti, PhD"
 title_separator          : "-"
-name                     : &name "Raman Ganti"
+name                     : &name "Raman S. Ganti"
 description              : &description ""
 url                      : https://rganti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
