@@ -1,6 +1,6 @@
 ---
 title: "Time Series Forecasting"
-excerpt: "Forecasting 1 minute ahead QQQ <br/><img src='/images/QQQ_Results.jpeg'>"
+excerpt: "Forecasting 1 minute ahead QQQ <br/><img src='/images/QQQ_Results.pdf'>"
 collection: portfolio
 ---
 
