@@ -1,6 +1,6 @@
 ---
-title: "Time Series Forecasting"
-excerpt: "Forecasting 1 minute ahead QQQ <br/><img src='/images/QQQ_Results.jpg'>"
+title: "Deep Learning for Time Series Forecasting"
+excerpt: "Applying methods developed in machine translation and language modeling to accurately forecast stock prices <br/><img src='/images/QQQ_Results.jpg'>"
 collection: portfolio
 ---
 
